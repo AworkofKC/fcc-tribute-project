@@ -58,7 +58,6 @@ li {
 }
 
 #footer-info {
-  display: flex;
-  justify-content: center;
+  display: block;
   text-align: center;
 }
