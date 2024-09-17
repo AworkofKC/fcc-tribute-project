@@ -40,6 +40,11 @@ h2 {
   height: auto;
 }
 
+#tribute-info {
+  display: flex;
+  justify-content: center;
+}
+
 li {
   padding-bottom: 5px;
 }
