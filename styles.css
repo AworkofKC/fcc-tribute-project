@@ -3,16 +3,6 @@ body {
   border-radius: 10px;
 }
 
-#main {
-  border: 2px solid black;
-  border-radius: 5px;
-  width: 80%;
-  background-color: rgba(236, 237, 244, 0.926);
-  margin-left: auto;
-  margin-right: auto;
-  padding: 5px;
-}
-
 h1, h2 {
   display: flex;
   justify-content: center;
@@ -32,6 +22,14 @@ h2 {
 
 #img-div {
   text-align: center;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 80%;
+  background-color: rgba(236, 237, 244, 0.926);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  padding-top: 20px;
 }
 
 #image {
