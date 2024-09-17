@@ -1,0 +1,53 @@
+body {
+  background: #c4d2e0;
+  border-radius: 10px;
+}
+
+#main-section {
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 80%;
+  background-color: rgba(236, 237, 244, 0.926);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
+
+h1, h2 {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 45px;
+  text-align: center;
+}
+
+h2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+  height: auto;
+}
+
+li {
+  padding-bottom: 5px;
+}
+
+#quote {
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+}
